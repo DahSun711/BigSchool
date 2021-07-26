@@ -224,3 +224,4 @@ D:\thực hành web\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
 D:\thực hành web\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
 D:\thực hành web\BigSchool\BigSchool\bin\System.Web.Http.xml
 D:\thực hành web\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+D:\thực hành web\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources

@@ -20,6 +20,7 @@ namespace BigSchool.ViewModels
         [Required]
         public byte Category { get; set; }
         public IEnumerable<Category> Categories { get; set; }
+        public string Heading { get; internal set; }
 
         public DateTime GetDateTime()
         {
